@@ -13,3 +13,6 @@
 
 ### DAY 2 GIT Commands
 1. git status - checking the status of you project folder.. shows you tracked and untracked files(new)
+2. git add . - Gets changes from working directory to staging area
+3. git commit -m "short message" - updating changes from staging are to local git repository
+4. git push origin main - Updating changes from local git repository to remote repository (Github)
