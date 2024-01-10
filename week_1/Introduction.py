@@ -72,4 +72,24 @@ print(a == 1 and b == 3)
 # or - returns True if one of the conditions is True
 print(a == 2 or b == 3)
 
+# not - returns True if the condition is False
+print("Logoical not:" , not a == 1)
+
+#  1. > - greater than
+print(a > b)
+
+# 2. < - less than
+print(type(b + a))
+
+# 3. >= - greater than or equal to
+print(a >= a)
+
+# 4. <= - less than or equal to
+print(a,  b)
+
+
+# PEP - Python Enhancement Proposal standards
+# Naming Conventions - How to name your variables
+ 
+
 

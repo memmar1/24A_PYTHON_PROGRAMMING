@@ -10,3 +10,6 @@
 2. git branch -M main - navigating to the main branch 
 3. git remote add origin path - creating a connaction to our remote repository
 3. git remote -v - Checking the remote repo we are working off from
+
+### DAY 2 GIT Commands
+1. git status - checking the status of you project folder.. shows you tracked and untracked files(new)
