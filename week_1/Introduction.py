@@ -91,5 +91,13 @@ print(a,  b)
 # PEP - Python Enhancement Proposal standards
 # Naming Conventions - How to name your variables
  
+ # Type Casting - Converting one data type to another
+string_2 = "5"
+print(type(int(string_2)))
 
+#type casting from float to integer
+float_1 = 5.5
+print(float(string_2))
 
+#type casting from integer to string
+print(type(str(float_1)))
