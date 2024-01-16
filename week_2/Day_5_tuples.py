@@ -8,3 +8,10 @@ my_set = {"emanual", 7}
 print(my_tuple[1])
 print(my_set)
 # my_tuple[6] = "Emmanuel2" # this will throw an error
+
+# Unpacking tuples
+tuple = ("mercy", "judith", "kibet", "judith")
+
+name1, name2, name3, name4 = tuple
+
+print(name1)
