@@ -1,0 +1,11 @@
+{
+    "Name": "Sword",
+    "Sprite": "sword.png",
+    "pixel": [[255, 255],[255, 255]],
+    "sub_image": {
+        "Name": "Sword",
+        "Sprite": "sword.png",
+        "pixel": [[125, 125],[125, 125]]
+    }
+
+}
